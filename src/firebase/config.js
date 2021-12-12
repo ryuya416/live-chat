@@ -5,6 +5,7 @@ import "firebase/auth";
 const firebaseConfig = {
   apiKey: "AIzaSyCRHtP27HKX-OjJjagcVpmZ3rlx07kR_8g",
   authDomain: "udamy-vue-firebase-sites.firebaseapp.com",
+  databaseURL: "https://udamy-vue-firebase-sites.firebaseio.com",
   projectId: "udamy-vue-firebase-sites",
   storageBucket: "udamy-vue-firebase-sites.appspot.com",
   messagingSenderId: "607405705991",
